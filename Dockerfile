@@ -22,3 +22,9 @@ RUN mkdir /srv/jekyll
 ADD Gemfile /srv/jekyll
 WORKDIR /srv/jekyll
 RUN bundle install
+
+# ENV BUNDLER_VERSION=2.1.4
+
+# RUN gem update --system && \
+#     gem install bundler:2.1.4 && \
+#     bundle install

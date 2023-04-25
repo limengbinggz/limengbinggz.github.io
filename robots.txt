@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://limengbinggz.github.io/al-folio/sitemap.xml
+Sitemap: https://limengbinggz.github.io/sitemap.xml

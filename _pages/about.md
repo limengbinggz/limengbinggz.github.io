@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -13,14 +13,17 @@ profile:
     <p>1415 Washington Heights</p>
     <p>Ann Arbor, MI 48109</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 I am a fourth-year PhD student in the Department of Biostatistics at the University of Michigan, working with Dr. [Zhenke Wu](https://zhenkewu.com/). I got my bachelor's degree in biostatistics from UNC-Chapel Hill. My interests lie in designing and applying statistical methods to individualized health; in particular, incorporating structural prior information into Bayesian models. My current focus is on topic models, latent class models, and reinforcement learning. I have worked on methods to evaluate treatment rules in mobile health studies, to facilitate patient health monitoring using medical claims data, and to derive dietary patterns using food survey data.
- 
+
+
+I love the nature and enjoy the outdoors. [What do I do outside of research?]({{ site.baseurl }}{% link _pages/Miscellaneous.md %})
+
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

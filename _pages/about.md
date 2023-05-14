@@ -15,12 +15,17 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 I am a fourth-year PhD student in the Department of Biostatistics at the University of Michigan, working with Dr. [Zhenke Wu](https://zhenkewu.com/). I got my bachelor's degree in biostatistics from UNC-Chapel Hill. My interests lie in designing and applying statistical methods to individualized health; in particular, incorporating structural prior information into Bayesian models. My current focus is on topic models, latent class models, and reinforcement learning. I have worked on methods to evaluate treatment rules in mobile health studies, to facilitate patient health monitoring using medical claims data, and to derive dietary patterns using food survey data.
 
+**Keywords**:
+
+Methods: Latent variable models; Graphical models; Nonparametric Bayes; Bayesian computation; Reinforcement learning.
+
+Applications: Individualized medicine; Mobile health; Nutritional epidemiology; Electronic health records/claims data; Health policy.
 
 I love the nature and enjoy the outdoors. [What do I do outside of research?]({{ site.baseurl }}{% link _pages/Miscellaneous.md %})
 

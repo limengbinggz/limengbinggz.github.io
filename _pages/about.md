@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a final-year PhD student in the Department of Biostatistics at the University of Michigan, working with Dr. [Zhenke Wu](https://zhenkewu.com/). I got my bachelor's degree in biostatistics from UNC-Chapel Hill. My interests lie in designing and applying statistical methods to individualized health; in particular, incorporating structural prior information into Bayesian models. My current focus is on topic models, latent class models, and reinforcement learning. I have worked on methods to evaluate treatment rules in mobile health studies, to facilitate patient health monitoring using medical claims data, and to derive dietary patterns using food survey data.
+I obtained my PhD in Biostatistics from the Department of Biostatistics at the University of Michigan, working with Dr. [Zhenke Wu](https://zhenkewu.com/). I got my bachelor's degree in biostatistics from UNC-Chapel Hill. My interests lie in designing and applying statistical methods to individualized health; in particular, incorporating structural prior information into Bayesian models. My focus includes on topic models, latent class models, and reinforcement learning. I have worked on methods to evaluate treatment rules in mobile health studies, to facilitate patient health monitoring using medical claims data, and to derive dietary patterns using food survey data.
 
 **Keywords**:
 
@@ -31,9 +31,8 @@ I love the nature and enjoy the outdoors. [What do I do outside of research?]({{
 
 
 ---------------
-I am on the 2024-2025 job market. 
+While I was on the 2024-2025 job market, I created a collaborative [Google Sheet](https://docs.google.com/spreadsheets/d/1lmvc27LjN-GHZsNSQCZBbQka6AhrKeF0UwCB_uj6npo/edit?gid=1043185183#gid=1043185183) for PhD job market information. The intention was to build a valuable resource for friends and colleagues looking for academic jobs, who contribute and share open information. Through here you can find the collaborative sheet for future cohorts.
 
-Looking for PhD job market information? Check out our collaborative [Google Sheet](https://docs.google.com/spreadsheets/d/1lmvc27LjN-GHZsNSQCZBbQka6AhrKeF0UwCB_uj6npo/edit?gid=1043185183#gid=1043185183) and help us build a valuable resource by contributing and sharing open information — your input makes a difference!
 
 
 

@@ -4,7 +4,7 @@ permalink: /miscellaneous/
 title: Miscellaneous
 description: What do I do outside of research?
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 I love the nature and enjoy the outdoors, by hiking, birding, and radio orienteering.

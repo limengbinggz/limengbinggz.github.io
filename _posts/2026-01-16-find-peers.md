@@ -1,5 +1,14 @@
-
-# Your PhD Should Not Be Lonely
+---
+layout: post
+title: Your PhD Should Not Be Lonely
+date: 2026-01-16 00:30:00-0500
+description: 
+categories: grad-school experience
+giscus_comments: true
+related_posts: true
+toc: false
+published: true
+---
 
 When people are asked to describe their PhD journey in one word, the answers are often challenging, rewarding, or exhausting. All of those are true. 
 And yet, for many of us, loneliness quietly becomes the default setting, especially after coursework ends and everyone disappears into their own research bubble. 

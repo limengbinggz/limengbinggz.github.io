@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Following the Rules, Until I Did Not
+title: Grad School | 1. Following the Rules, Until I Did Not
 date: 2026-01-11 11:39:00-0500
 description: 
 categories: grad-school experience

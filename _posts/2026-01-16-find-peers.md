@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your PhD Should Not Be Lonely
+title: Grad School | 2. Your PhD Should Not Be Lonely
 date: 2026-01-16 00:30:00-0500
 description: 
 categories: grad-school experience

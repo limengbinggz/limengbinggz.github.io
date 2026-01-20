@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Graduate School Taught Me
+title: Grad School | 0. What Graduate School Taught Me
 date: 2026-01-10 11:39:00-0500
 description: 
 categories: grad-school experience

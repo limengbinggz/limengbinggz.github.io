@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Be Kind to Ourselves
+title: Grad School | 3. Be Kind to Ourselves
 date: 2026-01-19 00:01:00-0500
 description: 
 categories: grad-school experience
